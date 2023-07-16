@@ -1,6 +1,7 @@
 # nosql-challenge
 Scenario: 
 The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. You've been contracted by the editors of a food magazine, Eat Safe, Love, to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles.
+
 ![image](https://github.com/lishanisrikaran/nosql-challenge/assets/126973634/1fccf6a0-96cd-4518-8267-61ffdb9dc169)
 
 This repository consists of two main code files: 
