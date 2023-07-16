@@ -12,5 +12,5 @@ This repository consists of two main code files:
 <p>This file answers the specific questions that the food magazine has requested such as:</p>
 <li>Which establishments have a hygiene score equal to 20?</li>
 <li>Which establishments in London have a RatingValue greater than or equal to 4?</li>
-<li>What are the top 5 establishments with a RatingValue of 5, sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?</li>
+<li>What are the top 5 establishments with a RatingValue of 5, sorted by lowest hygiene score, nearest to the new restaurant added, "Penang   Flavours"?</li>
 <li>How many establishments in each Local Authority area have a hygiene score of 0?</li>
