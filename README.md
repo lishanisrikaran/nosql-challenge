@@ -5,10 +5,12 @@ The UK Food Standards Agency evaluates various establishments across the United 
 ![image](https://github.com/lishanisrikaran/nosql-challenge/assets/126973634/1fccf6a0-96cd-4518-8267-61ffdb9dc169)
 
 This repository consists of two main code files: 
-1. NoSQL_setup_starter
-This file imports data about UK food establishments which The UK Food Standards Agency has evaluated into a no-sql database, and updates the database so that when explotary analysis is undertaken, the data worked with is compliant to the food magazine's criteria. 
+1. <b>NoSQL_setup_starter</b>
+<br />
+This file imports data about UK food establishments which The UK Food Standards Agency has evaluated into a no-sql database, and updates the database so that when explotary analysis is undertaken, the data worked with is compliant with the food magazine's criteria. 
 
-2. NoSQL_analysis_starter
+2. <b>NoSQL_analysis_starter</b>
+<br />
 This file answers the specific questions that the food magazine has requested such as:
 - Which establishments have a hygiene score equal to 20?
 - Which establishments in London have a RatingValue greater than or equal to 4?
