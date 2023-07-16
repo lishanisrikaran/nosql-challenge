@@ -6,10 +6,10 @@ The UK Food Standards Agency evaluates various establishments across the United 
 
 This repository consists of two main code files: 
 1. <b>NoSQL_setup_starter</b>
-This file imports data about UK food establishments which The UK Food Standards Agency has evaluated into a no-sql database, and updates the database so that when explotary analysis is undertaken, the data worked with is compliant with the food magazine's criteria. 
+<p>This file imports data about UK food establishments which The UK Food Standards Agency has evaluated into a no-sql database, and updates the database so that when explotary analysis is undertaken, the data worked with is compliant with the food magazine's criteria.</p>
 
 2. <b>NoSQL_analysis_starter</b>
-This file answers the specific questions that the food magazine has requested such as:
+<p>This file answers the specific questions that the food magazine has requested such as:</p>
 - Which establishments have a hygiene score equal to 20?
 - Which establishments in London have a RatingValue greater than or equal to 4?
 - What are the top 5 establishments with a RatingValue of 5, sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?
